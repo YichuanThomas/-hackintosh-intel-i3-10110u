@@ -1,6 +1,12 @@
 # -hackintosh-intel-i3-10110u
+
+
 一台华强北的笔记本，硬件配置十分简陋，声卡无法驱动
+
+
 处理器：i3-10110u
+
+
 内存：8g（镁光lpddr3 1600mhz）
 显卡：intel uhd grphics 630
 主板：i/o-0284 for intel 400 series芯片组family
